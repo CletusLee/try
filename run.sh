@@ -7,4 +7,5 @@ echo 'loser'
 echo 'oh my'
 echo 'failed again'
 echo 'failed one more time'
+echo 'no~'
 exit 1
